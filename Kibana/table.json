@@ -1,0 +1,10 @@
+PUT table_name 
+{
+  "mappings": {
+    "doc": { 
+      "properties": { 
+        "location":    { "type": "geo_point"}
+      }
+    }
+  }
+}
