@@ -1,5 +1,5 @@
 # OpenCellidTools
-OpenCellidTools dataset analysis and visualization tools, leveraging  PySpark, Elasticsearch and Kibana
+OpenCellid dataset analysis and visualization tools, leveraging  PySpark, Elasticsearch and Kibana
 
 ## Requirements 
 - **PySpark** | Version: 2.3.0
