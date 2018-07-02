@@ -24,7 +24,7 @@ SUBMIT_ARGS = '--packages org.elasticsearch:elasticsearch-spark-20_2.11:6.2.3 py
 os.environ['PYSPARK_SUBMIT_ARGS'] = SUBMIT_ARGS
 
 # Create Spark context
-conf = SparkConf().setAppName('MotionLogicETL').setMaster('local[*]')
+conf = SparkConf().setAppName('MobileCountryCodeFilter').setMaster('local[*]')
 sc = SparkContext(conf=conf)
 
 # Create SQL context
