@@ -1,4 +1,4 @@
-# OpenCellidTools
+# ![OpenCellidLogo](https://opencellid.org/images/opencellid_logo.png) Tools
 OpenCellid dataset analysis and visualization tools, leveraging  PySpark, Elasticsearch and Kibana
 
 ## Requirements 
